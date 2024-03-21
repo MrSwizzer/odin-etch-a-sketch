@@ -3,12 +3,11 @@
     flex-wrap: wrap;
     width: 960px;
     height: 960px;
-    justify-content: center;
     border-style: solid;
     border-color: black;
+    margin-top: 50px;
 }
 
-.grid_div {
-    height: 60px;
-    width: 60px;
+#userpopup {
+    margin-top: 20px;
 }
