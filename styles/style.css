@@ -1,0 +1,11 @@
+#container {
+    display: flex;
+    width: 960px;
+    height: 960px;
+    justify-content: center;
+}
+
+.grid_div {
+    height: 60px;
+    width: 60px;
+}
