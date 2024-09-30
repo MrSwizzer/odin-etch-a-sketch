@@ -17,7 +17,9 @@ This project is part of **The Odin Project's Foundation curriculum**, where I cr
 
 ## 📸 Preview
 
-You can try out the Etch-A-Sketch tool here: [Live Demo](https://myaccount.github.io/etch-a-sketch)
+You can try out the Etch-A-Sketch tool here: [Live Demo](https://mrswizzer.github.io/odin-etch-a-sketch)
+
+![Preview](./preview-pics/preview.png)
 
 ## 💡 Learning Outcomes
 
